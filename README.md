@@ -30,8 +30,7 @@ Software:
 ```
 RT-Thread Studio - for programing the HMI-Board
 Squareline Studio - for designing the GUI
-Arduino Editor - for editing the C++ code
-Powerpoint - for creating the GUI Concept layout
+Powerpoint - for creating the GUI elements
 EasyEDA - for PCB design
 ```
 
