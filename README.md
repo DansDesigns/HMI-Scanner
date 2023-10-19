@@ -26,7 +26,9 @@ Lipo or Li-ion battery, I used 1200mah
 ```
 
 Except for the GPS and MQ Gas Sensors, all of the above sensors operate over I2C, so only 4 pins for each one!
+
 All share the same V, GND, I2C Data & Clock Pins aswell, so a custom PCB makes things alot easier.
+
 This can be done simply on some protoboard, I used an Arduino Uno compatible Protoboard Shield - pictures of this can be found in the __Expansion Board Images__ folder
 
 
