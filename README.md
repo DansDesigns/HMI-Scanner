@@ -37,5 +37,5 @@ Squareline Studio - for designing the GUI
 Powerpoint - for creating the GUI elements
 ```
 
-I have created a YouTube tutorial series for how to use the RA6M3 HMI-Board here: 
+I have created a YouTube tutorial series for how to use the RA6M3 HMI-Board here: [RA6M3 HMI-Board Tutorial Series](https://www.youtube.com/playlist?list=PLK-SamanCEIuBjHlD-6LJ5eWIb0PcgStS)
 Detailed Instructions to follow..
