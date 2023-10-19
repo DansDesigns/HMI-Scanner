@@ -3,10 +3,10 @@ A multi sensor environment scanner based on the RT-thread x Renesas RA6M3 HMI-Bo
 
 Current Progress:
 ```
-GUI - 45%
-Code - 55%
+GUI - 85%
+Code - 75%
 3d printed case - WIP
-Custom PCB for sensors - 95% 
+Custom PCB for sensors - 95% - REDESIGNED WITH ARDUINO UNO PROTOTYPE SHIELD
 ```
 
 Hardware:
