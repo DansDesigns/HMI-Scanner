@@ -17,13 +17,17 @@ SI1145 - UV/IR Light Intnsity Sensor
 MPU6050 -  3-Axis Gyroscope Accelerometer
 GY-271 -  3-Axis Magnetic Compass
 VL53L0X - IR Laser Time-of-Flight Distance Sensor
+GT-U7 Serial GPS Module
+MQ-X Hydrogen and VOC Gas Sensor
+MQ-7 Carbon Monoxide Gas Detector 
 3.7v-4.2v > 5v3A Power Converter
-Lipo or Li-ion battery, I used 2000mah
+Sparkfun MAX17043 Lipo Fuel Gauge
+Lipo or Li-ion battery, I used 1200mah
 ```
 
-The above sensors operate over I2C, so only 4 pins for each one!
-All share the same I2C Data & Clock Pins aswell, so a custom PCB makes things alot easier.
-This can be done simply on some protoboard or you can order one from the files in the __PCB__ folder from your favourite PCB manufacturer!
+Except for the GPS and MQ Gas Sensors, all of the above sensors operate over I2C, so only 4 pins for each one!
+All share the same V, GND, I2C Data & Clock Pins aswell, so a custom PCB makes things alot easier.
+This can be done simply on some protoboard, I used an Arduino Uno compatible Protoboard Shield - pictures of this can be found in the __Expansion Board Images__ folder
 
 
 Software:
@@ -31,8 +35,7 @@ Software:
 RT-Thread Studio - for programing the HMI-Board
 Squareline Studio - for designing the GUI
 Powerpoint - for creating the GUI elements
-EasyEDA - for PCB design
 ```
 
-
+I have created a YouTube tutorial series for how to use the RA6M3 HMI-Board here: 
 Detailed Instructions to follow..
