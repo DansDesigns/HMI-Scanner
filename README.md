@@ -1,12 +1,14 @@
 # HMI-Scanner
 A multi sensor environment scanner based on the RT-thread x Renesas RA6M3 HMI-Board
 
+[Hardware Showcase Video](https://youtu.be/nxeD5lMJxVE)
+
 Current Progress:
 ```
-GUI - 85%
-Code - 75%
-3d printed case - WIP
-Custom PCB for sensors - 95% - REDESIGNED WITH ARDUINO UNO PROTOTYPE SHIELD
+GUI - 95%
+Code - 95%
+3d printed case - 90% 
+Custom PCB for sensors - 100% - REDESIGNED WITH ARDUINO UNO PROTOTYPE SHIELD
 ```
 
 Hardware:
@@ -22,7 +24,7 @@ MQ-X Hydrogen and VOC Gas Sensor
 MQ-7 Carbon Monoxide Gas Detector 
 3.7v-4.2v > 5v3A Power Converter
 Sparkfun MAX17043 Lipo Fuel Gauge
-Lipo or Li-ion battery, I used 1200mah
+Lipo or Li-ion battery, I used 1200mah from Hobbyking
 ```
 
 Except for the GPS and MQ Gas Sensors, all of the above sensors operate over I2C, so only 4 pins for each one!
